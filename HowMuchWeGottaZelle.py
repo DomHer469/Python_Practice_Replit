@@ -1,3 +1,4 @@
+#DESCRIPTION:
 #Just built a fun little Python program that simulates splitting a dinner bill at a fancy birthday dinner 💸🍽️
 #The script uses conditional logic to suggest a tip based on the bill total, lets the user customize the tip percentage, and then calculates how much each person owes based on the group size.
 
