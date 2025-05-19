@@ -1,3 +1,6 @@
+#Just built a fun little Python program that simulates splitting a dinner bill at a fancy birthday dinner 💸🍽️
+#The script uses conditional logic to suggest a tip based on the bill total, lets the user customize the tip percentage, and then calculates how much each person owes based on the group size.
+
 print("""Think of this sernario: you're at a fancy restaurant for your birthday and you have all your friedns around you. y'all are loving the vibes and the food. Everything is great. Then BOOM the check comes in, the server couldn't divide the check so its all on one. You have to pay for it but you tell your friends to Zelle you back.""")
 print()
 
